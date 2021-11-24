@@ -1,6 +1,6 @@
 /*######################################################################################
 
-# Name: lab6_client.c, IPC with FIFOS, Client Code
+# Name: IPC with FIFOS, Client Code
 # Written by: Yusuf Ghodiwala - April 2021
 # CLient Purpose: To connect with a server to upload a file
 # 
@@ -9,7 +9,7 @@
 #  
 #  FILE NAME  : The user will need to send a file to upload
 # 
-#  Usage:  ./lab6_client <filename
+#  
 #  
 #  Description of the Program logic;
 #   This client code will first check the presence of the two FIFOs needed to communicate
