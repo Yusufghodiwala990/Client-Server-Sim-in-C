@@ -1,6 +1,6 @@
 /*######################################################################################
 
-# Name: lab6_server.c, IPC with FIFOS, Server Code
+# Name: IPC with FIFOS, Server Code
 # Written by: Yusuf Ghodiwala - April 2021
 # CLient Purpose: To connect with a client, receive a filename and the contents and
 #                  write a localcopy the print a confirmation message
